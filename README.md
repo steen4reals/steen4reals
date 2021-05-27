@@ -1,5 +1,6 @@
 ### Hi there, I'm Christina👋
 
+Check out my [portfolio page](https://christina-ma.netlify.app/)!
 
 I'm a full stack web developer currently based in Birmingham, UK 😄
 
